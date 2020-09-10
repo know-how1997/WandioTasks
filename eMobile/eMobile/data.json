@@ -1,0 +1,46 @@
+{
+  "List": [
+    {
+      "Id": "0",
+      "Name": "name1",
+      "Manufacturer": "company1",
+      "Size": "0.0",
+      "Weight": "0.0",
+      "ScreenSize": "0.0",
+      "ScreenResolution": "",
+      "Processor": "0.0",
+      "Memory": "0.0",
+      "OperatingSystem": "0.0",
+      "Price": "100",
+      "Camera": "0.0"
+    },
+    {
+      "Id": "0",
+      "Name": "name2",
+      "Manufacturer": "company2",
+      "Size": "0.0",
+      "Weight": "0.0",
+      "ScreenSize": "0.0",
+      "ScreenResolution": "",
+      "Processor": "0.0",
+      "Memory": "0.0",
+      "OperatingSystem": "0.0",
+      "Price": "200",
+      "Camera": "0.0"
+    },
+    {
+      "Id": "0",
+      "Name": "nam3",
+      "Manufacturer": "company3",
+      "Size": "0.0",
+      "Weight": "0.0",
+      "ScreenSize": "0.0",
+      "ScreenResolution": "",
+      "Processor": "0.0",
+      "Memory": "0.0",
+      "OperatingSystem": "0.0",
+      "Price": "300",
+      "Camera": "0.0"
+    }
+  ]
+}
